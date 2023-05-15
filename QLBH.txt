@@ -1,0 +1,137 @@
+Bảng Tables: Bàn
+Stt | Tên trường  | Kiểu dữ liệu  |  Khóa/Ràng buộc |  ý nghĩa
+
+1    TableID        int             Pk                Mã bàn
+
+2    Seat           int             not null          Số ghế
+
+3    Status         char(5)         not null          Tình trạng bàn
+   
+Bảng Booking: đặt bàn
+Stt | Tên trường  | Kiểu dữ liệu  |  Khóa/Ràng buộc |  ý nghĩa
+
+1    BookID        varchar(10)      Pk                Mã đặt bàn
+
+2    CustomerID    varchar(10)      fk,not null       Mã khách hàng
+
+3    TableID       int              fk, not null      Mã bàn
+
+4    Date        date             not null          Ngày đặt 
+
+5    Time        time(2)          not null          Tgian
+
+
+
+Bảng Staff: Nhân viên
+
+Stt | Tên trường  | Kiểu dữ liệu  |  Khóa/Ràng buộc |  ý nghĩa
+
+1    StaffID        varchar(10)       PK              Mã nhân viên 
+
+2    NameID         nvarchar(50)      Not null        Họ tên nhân viên
+
+3    Gender       char(5)           Not null        Giới tính nhân viên
+
+4    Phone        varchar(12)       Not null        Số đt nhân viên
+
+5    Position       nvarchar(30)      Not null        Chức vụ nhân viên
+
+
+
+Bảng  Calendar: Lịch làm việc
+
+Stt | Tên trường  | Kiểu dữ liệu  |  Khóa/Ràng buộc |  ý nghĩa
+
+1    CalendarID    varchar(10)       PK                Mã lịch làm việc
+
+2    StaffID       varchar(10)       FK,Not null       Mã nhân viên
+
+3    Date       date              Not null          Ngày lm vc
+
+4    Shift         char(5)           Not null          Ca làm 
+
+     
+Bảng TypeDish: Loại món ăn 
+Stt | Tên trường  | Kiểu dữ liệu  |  Khóa/Ràng buộc |  ý nghĩa
+
+1    TypeDishID         varchar(10)     pk                Mã loại món ăn
+
+2    NameType       nvarchar(30)    not null          Tên loại món ăn
+
+Bảng Dish: Món ăn
+
+Stt | Tên trường  | Kiểu dữ liệu  |  Khóa/Ràng buộc |  ý nghĩa
+
+1    DishID        varchar(10)     Pk                 Mã món ăn
+
+2    NameDish        nvarchar(30)    not null           Tên món ăn
+
+3    TypeDishID      varchar(10)    fk,not null          id loại món ăn
+
+4    Price         Decimal         not null           Giá tiền
+
+5    Description   nvarchar(100)                      Mô tả
+
+Bảng Customer: Khách hàng
+
+Stt | Tên trường  | Kiểu dữ liệu  |  Khóa/Ràng buộc |  ý nghĩa
+
+1    CustomerID    varchar(10)      pk                Mã KH
+
+2    Name        nvarchar(50)     not null         Họ tên KH
+
+3    Birthday      date             not null         Ngày sinh
+
+4    Gender      char(5)          not null         Giới tính
+
+5    Phone       varchar(12)      not null         SĐT 
+
+6    Address       nvarchar(50)     not null         Địa chỉ
+
+Bảng PurchaseHistory: Lịch sử đặt hàng
+
+Stt | Tên trường  | Kiểu dữ liệu  |  Khóa/Ràng buộc |  ý nghĩa
+
+1    PHID          varchar(10)      pk                Mã lịch sử đặt hàng
+
+2    CustomerID    varchar(10)      fk,not null          Mã khách hàng
+
+3    OrderID       varchar(10)      fk,not null          Mã đơn hàng
+
+4    Date        date             not null         Ngày đặt
+
+Bảng Financial: Giao dịch
+
+Stt | Tên trường  | Kiểu dữ liệu  |  Khóa/Ràng buộc |  ý nghĩa
+
+1    FinancialID    varchar(10)        pk                Mã giao dịch
+
+2    Type         char(10)         not null           Loại giao dịch
+
+3    Money        decimal(10,2)    not null           số tiền
+
+4    Date         date             not null           Ngày giao dịch
+
+5    Description  nvarchar(100)                       mô tả
+
+Bảng Bill: Hóa đơn
+BillID varchar(10)
+OrderID varchar(10)
+DatePay date
+TotalMoney decimal(10,2)
+
+
+Bảng  Order: Đơn hàng
+
+Stt | Tên trường  | Kiểu dữ liệu  |  Khóa/Ràng buộc |  ý nghĩa
+
+1    OrderID      varchar(10)     pk                Mã chi tiết
+
+2	BookID	  varchar(10)	 fk			    Mã đặt bàn
+
+3    DishID        varchar(10)     fk,not null       Mã món ăn
+
+4    Quantity      int             not null          Số lượng
+
+5    Price       decimal(10,2)   not null          Đơn giá
+

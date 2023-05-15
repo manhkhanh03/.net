@@ -1,0 +1,11 @@
+C:\Users\MANH\Documents\.NET\PTBN\PTBN\bin\Debug\PTBN.exe.config
+C:\Users\MANH\Documents\.NET\PTBN\PTBN\bin\Debug\PTBN.exe
+C:\Users\MANH\Documents\.NET\PTBN\PTBN\bin\Debug\PTBN.pdb
+C:\Users\MANH\Documents\.NET\PTBN\PTBN\obj\Debug\PTBN.csproj.AssemblyReference.cache
+C:\Users\MANH\Documents\.NET\PTBN\PTBN\obj\Debug\PTBN.csproj.SuggestedBindingRedirects.cache
+C:\Users\MANH\Documents\.NET\PTBN\PTBN\obj\Debug\PTBN.Form1.resources
+C:\Users\MANH\Documents\.NET\PTBN\PTBN\obj\Debug\PTBN.Properties.Resources.resources
+C:\Users\MANH\Documents\.NET\PTBN\PTBN\obj\Debug\PTBN.csproj.GenerateResource.cache
+C:\Users\MANH\Documents\.NET\PTBN\PTBN\obj\Debug\PTBN.csproj.CoreCompileInputs.cache
+C:\Users\MANH\Documents\.NET\PTBN\PTBN\obj\Debug\PTBN.exe
+C:\Users\MANH\Documents\.NET\PTBN\PTBN\obj\Debug\PTBN.pdb

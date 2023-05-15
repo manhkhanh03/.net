@@ -1,0 +1,11 @@
+C:\Users\MANH\Documents\.NET\WordPadApp\WordPadApp\bin\Debug\WordPadApp.exe.config
+C:\Users\MANH\Documents\.NET\WordPadApp\WordPadApp\bin\Debug\WordPadApp.exe
+C:\Users\MANH\Documents\.NET\WordPadApp\WordPadApp\bin\Debug\WordPadApp.pdb
+C:\Users\MANH\Documents\.NET\WordPadApp\WordPadApp\obj\Debug\WordPadApp.csproj.AssemblyReference.cache
+C:\Users\MANH\Documents\.NET\WordPadApp\WordPadApp\obj\Debug\WordPadApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\MANH\Documents\.NET\WordPadApp\WordPadApp\obj\Debug\WordPadApp.Properties.Resources.resources
+C:\Users\MANH\Documents\.NET\WordPadApp\WordPadApp\obj\Debug\WordPadApp.csproj.GenerateResource.cache
+C:\Users\MANH\Documents\.NET\WordPadApp\WordPadApp\obj\Debug\WordPadApp.csproj.CoreCompileInputs.cache
+C:\Users\MANH\Documents\.NET\WordPadApp\WordPadApp\obj\Debug\WordPadApp.exe
+C:\Users\MANH\Documents\.NET\WordPadApp\WordPadApp\obj\Debug\WordPadApp.pdb
+C:\Users\MANH\Documents\.NET\WordPadApp\WordPadApp\obj\Debug\WordPadApp.WordPad.resources

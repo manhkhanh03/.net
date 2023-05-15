@@ -1,0 +1,11 @@
+C:\Users\MANH\Documents\.NET\soNguyeTo\soNguyeTo\bin\Debug\soNguyeTo.exe.config
+C:\Users\MANH\Documents\.NET\soNguyeTo\soNguyeTo\bin\Debug\soNguyeTo.exe
+C:\Users\MANH\Documents\.NET\soNguyeTo\soNguyeTo\bin\Debug\soNguyeTo.pdb
+C:\Users\MANH\Documents\.NET\soNguyeTo\soNguyeTo\obj\Debug\soNguyeTo.csproj.AssemblyReference.cache
+C:\Users\MANH\Documents\.NET\soNguyeTo\soNguyeTo\obj\Debug\soNguyeTo.csproj.SuggestedBindingRedirects.cache
+C:\Users\MANH\Documents\.NET\soNguyeTo\soNguyeTo\obj\Debug\soNguyeTo.Form1.resources
+C:\Users\MANH\Documents\.NET\soNguyeTo\soNguyeTo\obj\Debug\soNguyeTo.Properties.Resources.resources
+C:\Users\MANH\Documents\.NET\soNguyeTo\soNguyeTo\obj\Debug\soNguyeTo.csproj.GenerateResource.cache
+C:\Users\MANH\Documents\.NET\soNguyeTo\soNguyeTo\obj\Debug\soNguyeTo.csproj.CoreCompileInputs.cache
+C:\Users\MANH\Documents\.NET\soNguyeTo\soNguyeTo\obj\Debug\soNguyeTo.exe
+C:\Users\MANH\Documents\.NET\soNguyeTo\soNguyeTo\obj\Debug\soNguyeTo.pdb

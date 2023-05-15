@@ -1,0 +1,11 @@
+C:\Users\MANH\Documents\.NET\nganNT\nganNT\bin\Debug\nganNT.exe.config
+C:\Users\MANH\Documents\.NET\nganNT\nganNT\bin\Debug\nganNT.exe
+C:\Users\MANH\Documents\.NET\nganNT\nganNT\bin\Debug\nganNT.pdb
+C:\Users\MANH\Documents\.NET\nganNT\nganNT\obj\Debug\nganNT.csproj.AssemblyReference.cache
+C:\Users\MANH\Documents\.NET\nganNT\nganNT\obj\Debug\nganNT.csproj.SuggestedBindingRedirects.cache
+C:\Users\MANH\Documents\.NET\nganNT\nganNT\obj\Debug\nganNT.Form1.resources
+C:\Users\MANH\Documents\.NET\nganNT\nganNT\obj\Debug\nganNT.Properties.Resources.resources
+C:\Users\MANH\Documents\.NET\nganNT\nganNT\obj\Debug\nganNT.csproj.GenerateResource.cache
+C:\Users\MANH\Documents\.NET\nganNT\nganNT\obj\Debug\nganNT.csproj.CoreCompileInputs.cache
+C:\Users\MANH\Documents\.NET\nganNT\nganNT\obj\Debug\nganNT.exe
+C:\Users\MANH\Documents\.NET\nganNT\nganNT\obj\Debug\nganNT.pdb

@@ -1,0 +1,15 @@
+C:\Users\MANH\Documents\.NET\VD\VD\obj\Debug\net7.0\VD.csproj.AssemblyReference.cache
+C:\Users\MANH\Documents\.NET\VD\VD\obj\Debug\net7.0\VD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MANH\Documents\.NET\VD\VD\obj\Debug\net7.0\VD.AssemblyInfoInputs.cache
+C:\Users\MANH\Documents\.NET\VD\VD\obj\Debug\net7.0\VD.AssemblyInfo.cs
+C:\Users\MANH\Documents\.NET\VD\VD\obj\Debug\net7.0\VD.csproj.CoreCompileInputs.cache
+C:\Users\MANH\Documents\.NET\VD\VD\bin\Debug\net7.0\VD.exe
+C:\Users\MANH\Documents\.NET\VD\VD\bin\Debug\net7.0\VD.deps.json
+C:\Users\MANH\Documents\.NET\VD\VD\bin\Debug\net7.0\VD.runtimeconfig.json
+C:\Users\MANH\Documents\.NET\VD\VD\bin\Debug\net7.0\VD.dll
+C:\Users\MANH\Documents\.NET\VD\VD\bin\Debug\net7.0\VD.pdb
+C:\Users\MANH\Documents\.NET\VD\VD\obj\Debug\net7.0\VD.dll
+C:\Users\MANH\Documents\.NET\VD\VD\obj\Debug\net7.0\refint\VD.dll
+C:\Users\MANH\Documents\.NET\VD\VD\obj\Debug\net7.0\VD.pdb
+C:\Users\MANH\Documents\.NET\VD\VD\obj\Debug\net7.0\VD.genruntimeconfig.cache
+C:\Users\MANH\Documents\.NET\VD\VD\obj\Debug\net7.0\ref\VD.dll

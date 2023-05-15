@@ -1,0 +1,11 @@
+C:\Users\MANH\Documents\.NET\countSum\countSum\bin\Debug\countSum.exe.config
+C:\Users\MANH\Documents\.NET\countSum\countSum\bin\Debug\countSum.exe
+C:\Users\MANH\Documents\.NET\countSum\countSum\bin\Debug\countSum.pdb
+C:\Users\MANH\Documents\.NET\countSum\countSum\obj\Debug\countSum.csproj.AssemblyReference.cache
+C:\Users\MANH\Documents\.NET\countSum\countSum\obj\Debug\countSum.csproj.SuggestedBindingRedirects.cache
+C:\Users\MANH\Documents\.NET\countSum\countSum\obj\Debug\countSum.Form1.resources
+C:\Users\MANH\Documents\.NET\countSum\countSum\obj\Debug\countSum.Properties.Resources.resources
+C:\Users\MANH\Documents\.NET\countSum\countSum\obj\Debug\countSum.csproj.GenerateResource.cache
+C:\Users\MANH\Documents\.NET\countSum\countSum\obj\Debug\countSum.csproj.CoreCompileInputs.cache
+C:\Users\MANH\Documents\.NET\countSum\countSum\obj\Debug\countSum.exe
+C:\Users\MANH\Documents\.NET\countSum\countSum\obj\Debug\countSum.pdb

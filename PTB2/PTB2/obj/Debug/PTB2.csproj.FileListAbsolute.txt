@@ -1,0 +1,11 @@
+C:\Users\MANH\Documents\.NET\PTB2\PTB2\bin\Debug\PTB2.exe.config
+C:\Users\MANH\Documents\.NET\PTB2\PTB2\bin\Debug\PTB2.exe
+C:\Users\MANH\Documents\.NET\PTB2\PTB2\bin\Debug\PTB2.pdb
+C:\Users\MANH\Documents\.NET\PTB2\PTB2\obj\Debug\PTB2.csproj.AssemblyReference.cache
+C:\Users\MANH\Documents\.NET\PTB2\PTB2\obj\Debug\PTB2.csproj.SuggestedBindingRedirects.cache
+C:\Users\MANH\Documents\.NET\PTB2\PTB2\obj\Debug\PTB2.Form1.resources
+C:\Users\MANH\Documents\.NET\PTB2\PTB2\obj\Debug\PTB2.Properties.Resources.resources
+C:\Users\MANH\Documents\.NET\PTB2\PTB2\obj\Debug\PTB2.csproj.GenerateResource.cache
+C:\Users\MANH\Documents\.NET\PTB2\PTB2\obj\Debug\PTB2.csproj.CoreCompileInputs.cache
+C:\Users\MANH\Documents\.NET\PTB2\PTB2\obj\Debug\PTB2.exe
+C:\Users\MANH\Documents\.NET\PTB2\PTB2\obj\Debug\PTB2.pdb

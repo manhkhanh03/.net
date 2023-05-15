@@ -1,0 +1,11 @@
+C:\Users\MANH\Documents\.NET\cv-dt-hcn\cv-dt-hcn\bin\Debug\cv-dt-hcn.exe.config
+C:\Users\MANH\Documents\.NET\cv-dt-hcn\cv-dt-hcn\bin\Debug\cv-dt-hcn.exe
+C:\Users\MANH\Documents\.NET\cv-dt-hcn\cv-dt-hcn\bin\Debug\cv-dt-hcn.pdb
+C:\Users\MANH\Documents\.NET\cv-dt-hcn\cv-dt-hcn\obj\Debug\cv-dt-hcn.csproj.AssemblyReference.cache
+C:\Users\MANH\Documents\.NET\cv-dt-hcn\cv-dt-hcn\obj\Debug\cv-dt-hcn.csproj.SuggestedBindingRedirects.cache
+C:\Users\MANH\Documents\.NET\cv-dt-hcn\cv-dt-hcn\obj\Debug\cv_dt_hcn.Form1.resources
+C:\Users\MANH\Documents\.NET\cv-dt-hcn\cv-dt-hcn\obj\Debug\cv_dt_hcn.Properties.Resources.resources
+C:\Users\MANH\Documents\.NET\cv-dt-hcn\cv-dt-hcn\obj\Debug\cv-dt-hcn.csproj.GenerateResource.cache
+C:\Users\MANH\Documents\.NET\cv-dt-hcn\cv-dt-hcn\obj\Debug\cv-dt-hcn.csproj.CoreCompileInputs.cache
+C:\Users\MANH\Documents\.NET\cv-dt-hcn\cv-dt-hcn\obj\Debug\cv-dt-hcn.exe
+C:\Users\MANH\Documents\.NET\cv-dt-hcn\cv-dt-hcn\obj\Debug\cv-dt-hcn.pdb

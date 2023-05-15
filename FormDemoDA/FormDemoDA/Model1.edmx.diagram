@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="0d0ae225e786416286028daf246fa1bb" Name="Diagram1">
+        <EntityTypeShape EntityType="BOOKRENTALModel.Author" Width="1.5" PointX="3" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BOOKRENTALModel.Book" Width="1.5" PointX="3" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BOOKRENTALModel.BookAuthor" Width="1.5" PointX="5.25" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BOOKRENTALModel.Category" Width="1.5" PointX="0.75" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BOOKRENTALModel.Customer" Width="1.5" PointX="0.75" PointY="21" IsExpanded="true" />
+        <EntityTypeShape EntityType="BOOKRENTALModel.Language" Width="1.5" PointX="0.75" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BOOKRENTALModel.Order" Width="1.5" PointX="3" PointY="14" IsExpanded="true" />
+        <EntityTypeShape EntityType="BOOKRENTALModel.OrderDetail" Width="1.5" PointX="5.25" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="BOOKRENTALModel.Publisher" Width="1.5" PointX="0.75" PointY="9.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BOOKRENTALModel.Rental" Width="1.5" PointX="3" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BOOKRENTALModel.RentalDetail" Width="1.5" PointX="5.25" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="BOOKRENTALModel.RentalPrice" Width="1.5" PointX="5.25" PointY="15.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BOOKRENTALModel.Suppier" Width="1.5" PointX="0.75" PointY="12.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BOOKRENTALModel.sysdiagram" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BOOKRENTALModel.User" Width="1.5" PointX="0.75" PointY="15.5" IsExpanded="true" />
+        <AssociationConnector Association="BOOKRENTALModel.FK_BookAuthor_Author" ManuallyRouted="false" />
+        <AssociationConnector Association="BOOKRENTALModel.FK_Book_Categories" ManuallyRouted="false" />
+        <AssociationConnector Association="BOOKRENTALModel.FK_Book_Language" ManuallyRouted="false" />
+        <AssociationConnector Association="BOOKRENTALModel.FK_Book_Publishers" ManuallyRouted="false" />
+        <AssociationConnector Association="BOOKRENTALModel.FK_BookAuthor_Book" ManuallyRouted="false" />
+        <AssociationConnector Association="BOOKRENTALModel.FK_OrderDetail_Book" ManuallyRouted="false" />
+        <AssociationConnector Association="BOOKRENTALModel.FK_RentalDetail_Book" ManuallyRouted="false" />
+        <AssociationConnector Association="BOOKRENTALModel.FK_RentalPrice_Book" ManuallyRouted="false" />
+        <AssociationConnector Association="BOOKRENTALModel.FK_Rental_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="BOOKRENTALModel.FK_Order_Suppiers" ManuallyRouted="false" />
+        <AssociationConnector Association="BOOKRENTALModel.FK_Order_User" ManuallyRouted="false" />
+        <AssociationConnector Association="BOOKRENTALModel.FK_OrderDetail_Order" ManuallyRouted="false" />
+        <AssociationConnector Association="BOOKRENTALModel.FK_Rental_User" ManuallyRouted="false" />
+        <AssociationConnector Association="BOOKRENTALModel.FK_RentalDetail_Rental" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
